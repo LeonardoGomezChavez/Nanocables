@@ -7,7 +7,7 @@
 <sup>a</sup>Laboratorio de Estructura Molecular y Propiedades (LEMyP) - IQUIBA-NEA, Universidad Nacional del Nordeste, CONICET, FACENA, Av. Libertad
 5470, Corrientes 3400, Argentina.
 
-<sup>b</sup>Centro UTN Química e Ingeniería Teórica y Experimental (QUITEX). Av Laprida 405, Resistencia. Chaco.
+<sup>b</sup>Química e Ingeniería Teórica y Experimental (QUITEX) Centro UTN. Av Laprida 405, Resistencia. Chaco.
 
 
 
