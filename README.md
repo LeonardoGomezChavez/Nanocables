@@ -12,7 +12,7 @@
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-This repository provides information on training the Graph convolutional network implemented in the paper "Supramolecular Polymers of Amino-triazines vs. Amino-pyrimidines: How key Interactions Control their Thermodynamic Stability".
+This repository provides information about "Supramolecular Polymers of Amino-triazines vs. Amino-pyrimidines: How key Interactions Control their Thermodynamic Stability".
 
 
 ##   Usage
